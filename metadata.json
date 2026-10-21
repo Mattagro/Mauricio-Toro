@@ -1,0 +1,6 @@
+{
+  "name": "AgroVision - Visor GeoTIFF Sentinel-2 y Análisis de Índices",
+  "description": "Visor agronómico avanzado para GeoTIFFs multiespectrales de Google Earth Engine (Sentinel-2 SR Harmonized). Análisis de 17 índices de vigor, clorofila, agua y terreno con estadísticas de lote e histograma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
